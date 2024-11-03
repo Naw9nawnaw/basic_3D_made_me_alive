@@ -1,3 +1,5 @@
+© [2024] [Yiting Wang]. All rights reserved.
+
 “**basic_3D_made_me_alive**” [finished on Mar. 13, 2024] is an audio-reactive visualizer piece of p5js. I made FFT, torus, ribbon, 3D grid boxes with bubbles and cat.obj for fun in it. It is after I explore the xyz motion trajectory of a real coin spinning on a table in "**Torus_Coin_Animation**".
 
 GitHub Page(direct play result):
