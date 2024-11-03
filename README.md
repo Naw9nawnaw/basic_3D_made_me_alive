@@ -1,6 +1,7 @@
 “**basic_3D_made_me_alive**” [finished on Mar. 13, 2024] is an audio-reactive visualizer piece of p5js. I made FFT, torus, ribbon, 3D grid boxes and cat.obj for fun in it. It is after I explore the xyz motion trajectory of a real coin spinning on a table in "**Torus_Coin_Animation**".
 
-GitHub Page(direct play result):## https://naw9nawnaw.github.io/basic_3D_made_me_alive/
+GitHub Page(direct play result):
+## https://naw9nawnaw.github.io/basic_3D_made_me_alive/
 
 After opening it, a loud sound like tapping on the side of the computer is required to make the animation appear first (try more tappings or other loud sounds if the animation does not appear); Play the music Selected For Persephone - Yiting.mp3 which responds well and can see the final result. When played in different spaces and using different speakers, the bubbles' reactions and effects can be a little different.
 
