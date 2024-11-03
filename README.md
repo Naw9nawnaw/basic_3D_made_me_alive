@@ -3,7 +3,7 @@
 GitHub Page(direct play result):
 ## https://naw9nawnaw.github.io/basic_3D_made_me_alive/
 
-After opening it, a loud sound like tapping on the side of the computer is required to make the animation appear first (try more tappings or other loud sounds if the animation does not appear); Play the music Selected For Persephone - Yiting.mp3 which responds well and can see the final result. When played in different spaces and using different speakers, the bubbles' reactions and effects can be a little different.
+After opening it, a loud sound like tapping on the side of the computer is required to make the animation appear first (try more tappings or other loud sounds if the grid boxes and other animation do not appear); After seeing all the animations, play the music. _Selected For Persephone - Yiting.mp3_ responds well and can see the final result. When played in different spaces and using different speakers, the bubbles' reactions and effects can be a little different.
 
 Selected For Persephone - Yiting.mp3 is an addition that was an excerpt of the track _For Persephone_ from my unreleased album _People Need Belief_. You can play it or choose other music when playing the sketch.
 
