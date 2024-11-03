@@ -2,7 +2,5 @@
 
 Selected For Persephone - Yiting.mp3 was added also which was an excerpt of the track _For Persephone_ from my unreleased album _People Need Belief_. You can play it or choose other music when playing the sketch.
 
-in [Section `Features`](#feature)
-
 ## Feature https://naw9nawnaw.github.io/basic_3D_made_me_alive/
 
